@@ -1,8 +1,7 @@
 # KAIST_CS341
-### KAIST CS341 Socket Programming Project
+### KAIST CS341 Socket Programming Project in 2018 Fall
 
-This project is taking socket programming.
-
+This project provides the socket programming.
 
 Project Objective
 ------------------
